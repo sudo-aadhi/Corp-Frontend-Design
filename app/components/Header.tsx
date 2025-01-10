@@ -54,7 +54,7 @@ const Header: React.FC = () => {
           </nav>
 
           <div className="flex items-center justify-center md:justify-end w-full md:w-auto">
-            <button className="flex items-center justify-center p-2 w-[81px] h-[37px] rounded-md bg-[#0075FF] text-[12.69px] font-semibold transition-all duration-200 delay-75 hover:bg-[#0061d0]">
+            <button className="flex items-center justify-center p-2 w-[81px] h-[37px] rounded-md bg-[#0075FF] text-[12.69px] transition-all duration-200 delay-75 hover:bg-[#0061d0] font-semibold cursor-pointer">
               Join Beta
             </button>
           </div>
